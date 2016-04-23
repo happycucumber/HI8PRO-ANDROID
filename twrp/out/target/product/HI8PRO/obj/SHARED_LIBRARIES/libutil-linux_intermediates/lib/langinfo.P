@@ -1,0 +1,7 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/SHARED_LIBRARIES/libutil-linux_intermediates/lib/langinfo.o: \
+ bootable/recovery/libblkid/lib/langinfo.c \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ bootable/recovery/libblkid/include/nls.h
+ bootable/recovery/libblkid/lib/langinfo.c :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ bootable/recovery/libblkid/include/nls.h :

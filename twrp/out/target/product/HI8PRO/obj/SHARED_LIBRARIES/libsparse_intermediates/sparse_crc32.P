@@ -1,0 +1,11 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/SHARED_LIBRARIES/libsparse_intermediates/sparse_crc32.o: \
+ system/core/libsparse/sparse_crc32.c \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ bionic/libc/include/stdint.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h \
+ bionic/libc/include/machine/wchar_limits.h
+ system/core/libsparse/sparse_crc32.c :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ bionic/libc/include/stdint.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h :
+ bionic/libc/include/machine/wchar_limits.h :

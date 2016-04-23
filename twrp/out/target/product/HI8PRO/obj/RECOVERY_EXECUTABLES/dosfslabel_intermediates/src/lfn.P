@@ -1,0 +1,83 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/RECOVERY_EXECUTABLES/dosfslabel_intermediates/src/lfn.o: \
+ bootable/recovery/dosfstools/src/lfn.c \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ bionic/libc/include/stdio.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/android/api-level.h bionic/libc/include/sys/types.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/kernel/uapi/linux/types.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/types.h \
+ bionic/libc/kernel/uapi/asm-generic/types.h \
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/bitsperlong.h \
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h \
+ bionic/libc/kernel/uapi/linux/posix_types.h \
+ bionic/libc/kernel/uapi/linux/stddef.h \
+ bionic/libc/kernel/uapi/linux/compiler.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types_32.h \
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h \
+ bionic/libc/include/sys/sysmacros.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stdarg.h \
+ bionic/libc/include/stdlib.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/include/xlocale.h \
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h \
+ bionic/libc/include/memory.h bionic/libc/include/limits.h \
+ bionic/libc/include/sys/limits.h bionic/libc/kernel/uapi/linux/limits.h \
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/time.h \
+ bionic/libc/include/sys/time.h bionic/libc/kernel/uapi/linux/time.h \
+ bootable/recovery/dosfstools/src/common.h \
+ bootable/recovery/dosfstools/src/io.h \
+ bootable/recovery/dosfstools/src/dosfsck.h \
+ bionic/libc/include/sys/endian.h \
+ bionic/libc/arch-x86/include/machine/endian.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/byteorder.h \
+ bionic/libc/kernel/uapi/linux/byteorder/little_endian.h \
+ bionic/libc/kernel/uapi/linux/swab.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/swab.h \
+ bionic/libc/kernel/uapi/linux/msdos_fs.h \
+ bionic/libc/kernel/uapi/linux/magic.h \
+ bootable/recovery/dosfstools/src/lfn.h \
+ bootable/recovery/dosfstools/src/file.h
+ bootable/recovery/dosfstools/src/lfn.c :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ bionic/libc/include/stdio.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/android/api-level.h bionic/libc/include/sys/types.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/kernel/uapi/linux/types.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/types.h :
+ bionic/libc/kernel/uapi/asm-generic/types.h :
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/bitsperlong.h :
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h :
+ bionic/libc/kernel/uapi/linux/posix_types.h :
+ bionic/libc/kernel/uapi/linux/stddef.h :
+ bionic/libc/kernel/uapi/linux/compiler.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types_32.h :
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h :
+ bionic/libc/include/sys/sysmacros.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stdarg.h :
+ bionic/libc/include/stdlib.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/include/xlocale.h :
+ bionic/libc/include/alloca.h bionic/libc/include/strings.h :
+ bionic/libc/include/memory.h bionic/libc/include/limits.h :
+ bionic/libc/include/sys/limits.h bionic/libc/kernel/uapi/linux/limits.h :
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/time.h :
+ bionic/libc/include/sys/time.h bionic/libc/kernel/uapi/linux/time.h :
+ bootable/recovery/dosfstools/src/common.h :
+ bootable/recovery/dosfstools/src/io.h :
+ bootable/recovery/dosfstools/src/dosfsck.h :
+ bionic/libc/include/sys/endian.h :
+ bionic/libc/arch-x86/include/machine/endian.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/byteorder.h :
+ bionic/libc/kernel/uapi/linux/byteorder/little_endian.h :
+ bionic/libc/kernel/uapi/linux/swab.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/swab.h :
+ bionic/libc/kernel/uapi/linux/msdos_fs.h :
+ bionic/libc/kernel/uapi/linux/magic.h :
+ bootable/recovery/dosfstools/src/lfn.h :
+ bootable/recovery/dosfstools/src/file.h :

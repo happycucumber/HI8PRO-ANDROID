@@ -1,0 +1,11 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/STATIC_LIBRARIES/libc_bionic_intermediates/arch-x86/atom/string/ssse3-strncat-atom.o: \
+ bionic/libc/arch-x86/atom/string/ssse3-strncat-atom.S \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ bionic/libc/arch-x86/atom/string/ssse3-strcat-atom.S \
+ bionic/libc/arch-x86/atom/string/sse2-strlen-atom.S \
+ bionic/libc/arch-x86/atom/string/ssse3-strcpy-atom.S
+ bionic/libc/arch-x86/atom/string/ssse3-strncat-atom.S :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ bionic/libc/arch-x86/atom/string/ssse3-strcat-atom.S :
+ bionic/libc/arch-x86/atom/string/sse2-strlen-atom.S :
+ bionic/libc/arch-x86/atom/string/ssse3-strcpy-atom.S :

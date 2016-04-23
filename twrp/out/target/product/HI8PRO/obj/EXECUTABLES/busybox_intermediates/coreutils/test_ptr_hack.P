@@ -1,0 +1,7 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/EXECUTABLES/busybox_intermediates/coreutils/test_ptr_hack.o: \
+ external/busybox/coreutils/test_ptr_hack.c \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ /home/sangmin/cm12.1/out/target/product/HI8PRO/obj/busybox/full/include/autoconf.h
+ external/busybox/coreutils/test_ptr_hack.c :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ /home/sangmin/cm12.1/out/target/product/HI8PRO/obj/busybox/full/include/autoconf.h :

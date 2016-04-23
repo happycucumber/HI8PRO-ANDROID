@@ -1,0 +1,7 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/lib/crtbrand.s: \
+ bionic/libc/bionic/crtbrand.c bionic/libc/include/stdint.h \
+ /home/sangmin/cm12.1/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/lib/gcc/x86_64-linux-android/4.8/include/stddef.h \
+ bionic/libc/include/machine/wchar_limits.h
+ bionic/libc/bionic/crtbrand.c bionic/libc/include/stdint.h :
+ /home/sangmin/cm12.1/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/lib/gcc/x86_64-linux-android/4.8/include/stddef.h :
+ bionic/libc/include/machine/wchar_limits.h :

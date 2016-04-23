@@ -1,0 +1,17 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/STATIC_LIBRARIES/libc_netbsd_intermediates/upstream-netbsd/lib/libc/string/strcoll.o: \
+ bionic/libc/upstream-netbsd/lib/libc/string/strcoll.c \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ bionic/libc/upstream-netbsd/android/include/netbsd-compat.h \
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/android/api-level.h bionic/libc/include/string.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h \
+ bionic/libc/include/malloc.h bionic/libc/include/xlocale.h
+ bionic/libc/upstream-netbsd/lib/libc/string/strcoll.c :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ bionic/libc/upstream-netbsd/android/include/netbsd-compat.h :
+ bionic/libc/include/assert.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/android/api-level.h bionic/libc/include/string.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h :
+ bionic/libc/include/malloc.h bionic/libc/include/xlocale.h :

@@ -1,0 +1,173 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/SHARED_LIBRARIES/libft2_intermediates/src/sfnt/sfnt.o: \
+ external/freetype/src/sfnt/sfnt.c \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ external/freetype/include/ft2build.h \
+ external/freetype/include/config/ftheader.h \
+ external/freetype/include/internal/internal.h \
+ external/freetype/src/sfnt/sfntpic.c \
+ external/freetype/include/freetype.h \
+ external/freetype/include/config/ftconfig.h \
+ external/freetype/include/config/ftoption.h \
+ external/freetype/include/config/ftstdlib.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h \
+ bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/android/api-level.h bionic/libc/include/sys/limits.h \
+ bionic/libc/kernel/uapi/linux/limits.h \
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h \
+ bionic/libc/include/malloc.h bionic/libc/include/xlocale.h \
+ bionic/libc/include/stdio.h bionic/libc/include/sys/types.h \
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/kernel/uapi/linux/types.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/types.h \
+ bionic/libc/kernel/uapi/asm-generic/types.h \
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/bitsperlong.h \
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h \
+ bionic/libc/kernel/uapi/linux/posix_types.h \
+ bionic/libc/kernel/uapi/linux/stddef.h \
+ bionic/libc/kernel/uapi/linux/compiler.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types_32.h \
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h \
+ bionic/libc/include/sys/sysmacros.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stdarg.h \
+ bionic/libc/include/stdlib.h bionic/libc/include/alloca.h \
+ bionic/libc/include/strings.h bionic/libc/include/memory.h \
+ bionic/libc/include/setjmp.h \
+ bionic/libc/arch-x86/include/machine/setjmp.h \
+ external/freetype/include/fttypes.h external/freetype/include/ftsystem.h \
+ external/freetype/include/ftimage.h external/freetype/include/fterrors.h \
+ external/freetype/include/ftmoderr.h \
+ external/freetype/include/fterrdef.h \
+ external/freetype/include/internal/ftobjs.h \
+ external/freetype/include/ftrender.h \
+ external/freetype/include/ftmodapi.h external/freetype/include/ftglyph.h \
+ external/freetype/include/ftsizes.h external/freetype/include/ftlcdfil.h \
+ external/freetype/include/internal/ftmemory.h \
+ external/freetype/include/internal/ftgloadr.h \
+ external/freetype/include/internal/ftdriver.h \
+ external/freetype/include/internal/autohint.h \
+ external/freetype/include/internal/ftserv.h \
+ external/freetype/include/internal/ftpic.h \
+ external/freetype/src/sfnt/sfntpic.h \
+ external/freetype/src/sfnt/sferrors.h \
+ external/freetype/src/sfnt/ttload.c \
+ external/freetype/include/internal/ftdebug.h \
+ external/freetype/include/internal/ftstream.h \
+ external/freetype/include/tttags.h external/freetype/src/sfnt/ttload.h \
+ external/freetype/include/internal/tttypes.h \
+ external/freetype/include/tttables.h external/freetype/include/ftmm.h \
+ external/freetype/include/t1tables.h external/freetype/src/sfnt/ttmtx.c \
+ external/freetype/src/sfnt/ttmtx.h external/freetype/src/sfnt/ttcmap.c \
+ external/freetype/include/internal/ftvalid.h \
+ external/freetype/src/sfnt/ttcmap.h \
+ external/freetype/include/internal/services/svttcmap.h \
+ external/freetype/src/sfnt/ttcmapc.h external/freetype/src/sfnt/ttkern.c \
+ external/freetype/src/sfnt/ttkern.h external/freetype/src/sfnt/sfobjs.c \
+ external/freetype/src/sfnt/sfobjs.h \
+ external/freetype/include/internal/sfnt.h \
+ external/freetype/include/ttnameid.h \
+ external/freetype/include/internal/services/svpscmap.h \
+ external/freetype/include/ftsnames.h external/freetype/include/ftgzip.h \
+ external/freetype/src/sfnt/ttbdf.h external/freetype/include/ftbdf.h \
+ external/freetype/src/sfnt/sfdriver.c \
+ external/freetype/src/sfnt/sfdriver.h \
+ external/freetype/src/sfnt/ttsbit.h external/freetype/src/sfnt/ttpost.h \
+ external/freetype/include/internal/services/svbdf.h \
+ external/freetype/include/internal/services/svgldict.h \
+ external/freetype/include/internal/services/svpostnm.h \
+ external/freetype/include/internal/services/svsfnt.h \
+ external/freetype/src/sfnt/pngshim.c external/libpng/png.h \
+ external/libpng/pnglibconf.h external/libpng/pngconf.h \
+ bionic/libc/include/time.h bionic/libc/include/sys/time.h \
+ bionic/libc/kernel/uapi/linux/time.h \
+ external/freetype/src/sfnt/pngshim.h external/freetype/src/sfnt/ttsbit.c \
+ external/freetype/include/ftbitmap.h external/freetype/src/sfnt/ttpost.c \
+ external/freetype/src/sfnt/ttbdf.c
+ external/freetype/src/sfnt/sfnt.c :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ external/freetype/include/ft2build.h :
+ external/freetype/include/config/ftheader.h :
+ external/freetype/include/internal/internal.h :
+ external/freetype/src/sfnt/sfntpic.c :
+ external/freetype/include/freetype.h :
+ external/freetype/include/config/ftconfig.h :
+ external/freetype/include/config/ftoption.h :
+ external/freetype/include/config/ftstdlib.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h :
+ bionic/libc/include/limits.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/android/api-level.h bionic/libc/include/sys/limits.h :
+ bionic/libc/kernel/uapi/linux/limits.h :
+ bionic/libc/include/sys/syslimits.h bionic/libc/include/string.h :
+ bionic/libc/include/malloc.h bionic/libc/include/xlocale.h :
+ bionic/libc/include/stdio.h bionic/libc/include/sys/types.h :
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/kernel/uapi/linux/types.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/types.h :
+ bionic/libc/kernel/uapi/asm-generic/types.h :
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/bitsperlong.h :
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h :
+ bionic/libc/kernel/uapi/linux/posix_types.h :
+ bionic/libc/kernel/uapi/linux/stddef.h :
+ bionic/libc/kernel/uapi/linux/compiler.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types_32.h :
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h :
+ bionic/libc/include/sys/sysmacros.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stdarg.h :
+ bionic/libc/include/stdlib.h bionic/libc/include/alloca.h :
+ bionic/libc/include/strings.h bionic/libc/include/memory.h :
+ bionic/libc/include/setjmp.h :
+ bionic/libc/arch-x86/include/machine/setjmp.h :
+ external/freetype/include/fttypes.h external/freetype/include/ftsystem.h :
+ external/freetype/include/ftimage.h external/freetype/include/fterrors.h :
+ external/freetype/include/ftmoderr.h :
+ external/freetype/include/fterrdef.h :
+ external/freetype/include/internal/ftobjs.h :
+ external/freetype/include/ftrender.h :
+ external/freetype/include/ftmodapi.h external/freetype/include/ftglyph.h :
+ external/freetype/include/ftsizes.h external/freetype/include/ftlcdfil.h :
+ external/freetype/include/internal/ftmemory.h :
+ external/freetype/include/internal/ftgloadr.h :
+ external/freetype/include/internal/ftdriver.h :
+ external/freetype/include/internal/autohint.h :
+ external/freetype/include/internal/ftserv.h :
+ external/freetype/include/internal/ftpic.h :
+ external/freetype/src/sfnt/sfntpic.h :
+ external/freetype/src/sfnt/sferrors.h :
+ external/freetype/src/sfnt/ttload.c :
+ external/freetype/include/internal/ftdebug.h :
+ external/freetype/include/internal/ftstream.h :
+ external/freetype/include/tttags.h external/freetype/src/sfnt/ttload.h :
+ external/freetype/include/internal/tttypes.h :
+ external/freetype/include/tttables.h external/freetype/include/ftmm.h :
+ external/freetype/include/t1tables.h external/freetype/src/sfnt/ttmtx.c :
+ external/freetype/src/sfnt/ttmtx.h external/freetype/src/sfnt/ttcmap.c :
+ external/freetype/include/internal/ftvalid.h :
+ external/freetype/src/sfnt/ttcmap.h :
+ external/freetype/include/internal/services/svttcmap.h :
+ external/freetype/src/sfnt/ttcmapc.h external/freetype/src/sfnt/ttkern.c :
+ external/freetype/src/sfnt/ttkern.h external/freetype/src/sfnt/sfobjs.c :
+ external/freetype/src/sfnt/sfobjs.h :
+ external/freetype/include/internal/sfnt.h :
+ external/freetype/include/ttnameid.h :
+ external/freetype/include/internal/services/svpscmap.h :
+ external/freetype/include/ftsnames.h external/freetype/include/ftgzip.h :
+ external/freetype/src/sfnt/ttbdf.h external/freetype/include/ftbdf.h :
+ external/freetype/src/sfnt/sfdriver.c :
+ external/freetype/src/sfnt/sfdriver.h :
+ external/freetype/src/sfnt/ttsbit.h external/freetype/src/sfnt/ttpost.h :
+ external/freetype/include/internal/services/svbdf.h :
+ external/freetype/include/internal/services/svgldict.h :
+ external/freetype/include/internal/services/svpostnm.h :
+ external/freetype/include/internal/services/svsfnt.h :
+ external/freetype/src/sfnt/pngshim.c external/libpng/png.h :
+ external/libpng/pnglibconf.h external/libpng/pngconf.h :
+ bionic/libc/include/time.h bionic/libc/include/sys/time.h :
+ bionic/libc/kernel/uapi/linux/time.h :
+ external/freetype/src/sfnt/pngshim.h external/freetype/src/sfnt/ttsbit.c :
+ external/freetype/include/ftbitmap.h external/freetype/src/sfnt/ttpost.c :
+ external/freetype/src/sfnt/ttbdf.c :

@@ -1,0 +1,17 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/EXECUTABLES/linker_intermediates/arch/x86/begin.o: \
+ bionic/linker/arch/x86/begin.c \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ bionic/libc/include/stdint.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h \
+ bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/android/api-level.h \
+ bionic/linker/../libc/arch-x86/bionic/__stack_chk_fail_local.h
+ bionic/linker/arch/x86/begin.c :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ bionic/libc/include/stdint.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h :
+ bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/include/sys/cdefs.h bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/android/api-level.h :
+ bionic/linker/../libc/arch-x86/bionic/__stack_chk_fail_local.h :

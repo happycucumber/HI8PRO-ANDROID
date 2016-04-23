@@ -1,0 +1,7 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/SHARED_LIBRARIES/libunwind_intermediates/src/x86/getcontext-linux.o: \
+ external/libunwind/src/x86/getcontext-linux.S \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ external/libunwind/src/x86/offsets.h
+ external/libunwind/src/x86/getcontext-linux.S :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ external/libunwind/src/x86/offsets.h :

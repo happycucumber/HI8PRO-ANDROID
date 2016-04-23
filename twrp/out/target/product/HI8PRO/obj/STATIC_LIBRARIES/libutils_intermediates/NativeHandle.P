@@ -1,0 +1,105 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/STATIC_LIBRARIES/libutils_intermediates/NativeHandle.o: \
+ system/core/libutils/NativeHandle.cpp \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ system/core/include/utils/NativeHandle.h \
+ system/core/include/utils/RefBase.h system/core/include/cutils/atomic.h \
+ bionic/libc/include/stdint.h external/stlport/stlport/stddef.h \
+ external/stlport/stlport/stl/_cprolog.h \
+ external/stlport/stlport/stl/config/features.h \
+ external/stlport/stlport/stl/_stlport_version.h \
+ external/stlport/stlport/stl/config/user_config.h \
+ external/stlport/stlport/stl/config/compat.h \
+ external/stlport/stlport/stl/config/host.h \
+ external/stlport/stlport/stl/config/_system.h \
+ external/stlport/stlport/stl/config/_android.h \
+ external/stlport/stlport/stl/config/_gcc.h \
+ external/stlport/stlport/stl/config/stl_confix.h \
+ external/stlport/stlport/stl/config/_native_headers.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/../include/stddef.h \
+ external/stlport/stlport/stl/_epilog.h \
+ external/stlport/stlport/stl/_config_compat_post.h \
+ bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/include/sys/types.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/android/api-level.h \
+ bionic/libc/kernel/uapi/linux/types.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/types.h \
+ bionic/libc/kernel/uapi/asm-generic/types.h \
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/bitsperlong.h \
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h \
+ bionic/libc/kernel/uapi/linux/posix_types.h \
+ bionic/libc/kernel/uapi/linux/stddef.h \
+ bionic/libc/kernel/uapi/linux/compiler.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types.h \
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types_32.h \
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h \
+ bionic/libc/include/sys/sysmacros.h external/stlport/stlport/stdlib.h \
+ bionic/libc/include/../include/stdlib.h \
+ external/stlport/stlport/string.h \
+ bionic/libc/include/../include/string.h bionic/libc/include/malloc.h \
+ bionic/libc/include/xlocale.h bionic/libc/include/alloca.h \
+ bionic/libc/include/strings.h bionic/libc/include/memory.h \
+ system/core/include/utils/StrongPointer.h \
+ system/core/include/utils/TypeHelpers.h external/stlport/stlport/new \
+ external/stlport/stlport/stl/_prolog.h \
+ external/stlport/stlport/stl/debug/_debug.h \
+ external/stlport/stlport/stl/_new.h \
+ external/stlport/stlport/stl/_cstddef.h bionic/libstdc++/include/new \
+ external/stlport/stlport/cstddef bionic/libstdc++/include/cstddef \
+ external/stlport/stlport/stl/_cstdio.h external/stlport/stlport/stdio.h \
+ bionic/libc/include/../include/stdio.h external/stlport/stlport/stdarg.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/../include/stdarg.h \
+ system/core/include/cutils/native_handle.h
+ system/core/libutils/NativeHandle.cpp :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ system/core/include/utils/NativeHandle.h :
+ system/core/include/utils/RefBase.h system/core/include/cutils/atomic.h :
+ bionic/libc/include/stdint.h external/stlport/stlport/stddef.h :
+ external/stlport/stlport/stl/_cprolog.h :
+ external/stlport/stlport/stl/config/features.h :
+ external/stlport/stlport/stl/_stlport_version.h :
+ external/stlport/stlport/stl/config/user_config.h :
+ external/stlport/stlport/stl/config/compat.h :
+ external/stlport/stlport/stl/config/host.h :
+ external/stlport/stlport/stl/config/_system.h :
+ external/stlport/stlport/stl/config/_android.h :
+ external/stlport/stlport/stl/config/_gcc.h :
+ external/stlport/stlport/stl/config/stl_confix.h :
+ external/stlport/stlport/stl/config/_native_headers.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/../include/stddef.h :
+ external/stlport/stlport/stl/_epilog.h :
+ external/stlport/stlport/stl/_config_compat_post.h :
+ bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/include/sys/types.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/android/api-level.h :
+ bionic/libc/kernel/uapi/linux/types.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/types.h :
+ bionic/libc/kernel/uapi/asm-generic/types.h :
+ bionic/libc/kernel/uapi/asm-generic/int-ll64.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/bitsperlong.h :
+ bionic/libc/kernel/uapi/asm-generic/bitsperlong.h :
+ bionic/libc/kernel/uapi/linux/posix_types.h :
+ bionic/libc/kernel/uapi/linux/stddef.h :
+ bionic/libc/kernel/uapi/linux/compiler.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types.h :
+ bionic/libc/kernel/uapi/asm-x86/asm/posix_types_32.h :
+ bionic/libc/kernel/uapi/asm-generic/posix_types.h :
+ bionic/libc/include/sys/sysmacros.h external/stlport/stlport/stdlib.h :
+ bionic/libc/include/../include/stdlib.h :
+ external/stlport/stlport/string.h :
+ bionic/libc/include/../include/string.h bionic/libc/include/malloc.h :
+ bionic/libc/include/xlocale.h bionic/libc/include/alloca.h :
+ bionic/libc/include/strings.h bionic/libc/include/memory.h :
+ system/core/include/utils/StrongPointer.h :
+ system/core/include/utils/TypeHelpers.h external/stlport/stlport/new :
+ external/stlport/stlport/stl/_prolog.h :
+ external/stlport/stlport/stl/debug/_debug.h :
+ external/stlport/stlport/stl/_new.h :
+ external/stlport/stlport/stl/_cstddef.h bionic/libstdc++/include/new :
+ external/stlport/stlport/cstddef bionic/libstdc++/include/cstddef :
+ external/stlport/stlport/stl/_cstdio.h external/stlport/stlport/stdio.h :
+ bionic/libc/include/../include/stdio.h external/stlport/stlport/stdarg.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/../include/stdarg.h :
+ system/core/include/cutils/native_handle.h :

@@ -1,0 +1,19 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/STATIC_LIBRARIES/libstdc++_intermediates/bionic/__cxa_pure_virtual.o: \
+ bionic/libc/bionic/__cxa_pure_virtual.cpp \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ bionic/libc/private/libc_logging.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/android/api-level.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stdarg.h \
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h \
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h \
+ bionic/libc/private/libc_events.h
+ bionic/libc/bionic/__cxa_pure_virtual.cpp :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ bionic/libc/private/libc_logging.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/android/api-level.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stdarg.h :
+ prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stddef.h :
+ bionic/libc/include/stdint.h bionic/libc/include/machine/wchar_limits.h :
+ bionic/libc/private/libc_events.h :

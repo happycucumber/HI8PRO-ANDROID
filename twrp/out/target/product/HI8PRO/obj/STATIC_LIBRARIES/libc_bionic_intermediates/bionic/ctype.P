@@ -1,0 +1,11 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/STATIC_LIBRARIES/libc_bionic_intermediates/bionic/ctype.o: \
+ bionic/libc/bionic/ctype.cpp \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ bionic/libc/include/ctype.h bionic/libc/include/sys/cdefs.h \
+ bionic/libc/include/sys/cdefs_elf.h \
+ bionic/libc/include/android/api-level.h bionic/libc/include/xlocale.h
+ bionic/libc/bionic/ctype.cpp :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ bionic/libc/include/ctype.h bionic/libc/include/sys/cdefs.h :
+ bionic/libc/include/sys/cdefs_elf.h :
+ bionic/libc/include/android/api-level.h bionic/libc/include/xlocale.h :

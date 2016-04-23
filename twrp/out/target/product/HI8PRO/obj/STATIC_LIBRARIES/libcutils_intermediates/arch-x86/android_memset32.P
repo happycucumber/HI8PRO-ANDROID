@@ -1,0 +1,9 @@
+/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/STATIC_LIBRARIES/libcutils_intermediates/arch-x86/android_memset32.o: \
+ system/core/libcutils/arch-x86/android_memset32.S \
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
+ system/core/libcutils/arch-x86/cache_wrapper.S \
+ system/core/libcutils/arch-x86/sse2-memset32-atom.S
+ system/core/libcutils/arch-x86/android_memset32.S :
+ build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
+ system/core/libcutils/arch-x86/cache_wrapper.S :
+ system/core/libcutils/arch-x86/sse2-memset32-atom.S :
