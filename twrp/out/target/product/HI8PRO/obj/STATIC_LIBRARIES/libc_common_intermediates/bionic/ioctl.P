@@ -1,7 +1,0 @@
-/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/STATIC_LIBRARIES/libc_common_intermediates/bionic/ioctl.o: \
- bionic/libc/bionic/ioctl.c \
- build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
- prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stdarg.h
- bionic/libc/bionic/ioctl.c :
- build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
- prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8/bin/../lib/gcc/x86_64-linux-android/4.8/include/stdarg.h :

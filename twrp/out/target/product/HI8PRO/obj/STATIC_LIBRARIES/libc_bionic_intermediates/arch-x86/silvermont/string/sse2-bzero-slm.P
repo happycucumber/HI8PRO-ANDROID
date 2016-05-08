@@ -1,9 +1,0 @@
-/home/sangmin/cm12.1/out/target/product/HI8PRO/obj/STATIC_LIBRARIES/libc_bionic_intermediates/arch-x86/silvermont/string/sse2-bzero-slm.o: \
- bionic/libc/arch-x86/silvermont/string/sse2-bzero-slm.S \
- build/core/combo/include/arch/target_linux-x86/AndroidConfig.h \
- bionic/libc/arch-x86/silvermont/string/sse2-memset-slm.S \
- bionic/libc/arch-x86/silvermont/string/cache.h
- bionic/libc/arch-x86/silvermont/string/sse2-bzero-slm.S :
- build/core/combo/include/arch/target_linux-x86/AndroidConfig.h :
- bionic/libc/arch-x86/silvermont/string/sse2-memset-slm.S :
- bionic/libc/arch-x86/silvermont/string/cache.h :
